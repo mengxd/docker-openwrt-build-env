@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bullseye
 
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
